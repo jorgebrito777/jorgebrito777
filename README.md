@@ -179,7 +179,7 @@ I'm passionate about Cybersecurity, Secure Software Development, Python Automati
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/jorge-luis-brito-montes">
+<a href="https://www.linkedin.com/in/jorge-luis-brito-montes-88176321a/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
