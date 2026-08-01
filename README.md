@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="BannerGitHub.png" width="100%" alt="Banner">
+  <img src="./banner.png" width="100%" alt="Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Jorge Luis Brito Montes</h1>
@@ -126,4 +126,6 @@ Passionate about Cybersecurity, Ethical Hacking, Python Development, Linux, Clou
 
 ⭐ Thanks for visiting my profile!
 
-</p><img width="1536" height="1024" alt="BannerGitHub" src="https://github.com/user-attachments/assets/0be9fcd2-4d71-4cb0-be93-3ba20aa2e89a" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0be9fcd2-4d71-4cb0-be93-3ba20aa2e89a" width="100%" alt="Jorge Luis Brito Montes Banner"/>
+</p>
