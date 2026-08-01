@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0be9fcd2-4d71-4cb0-be93-3ba20aa2e89a" alt="Jorge Luis Brito Montes Banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/0be9fcd2-4d71-4cb0-be93-3ba20aa2e89a" width="100%" alt="Jorge Luis Brito Montes Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Jorge Luis Brito Montes</h1>
@@ -9,21 +9,23 @@ Cybersecurity | MSc Cybersecurity Student | Electronics & Telecommunications Eng
 </h3>
 
 <p align="center">
-I’m passionate about cybersecurity, secure software development, and automation. I enjoy building practical projects, solving technical challenges, and continuously improving my skills through hands-on learning.
+I'm passionate about Cybersecurity, Secure Software Development, Python Automation and Cloud Security.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Cybersecurity;Python+Developer;Linux+Enthusiast;Cloud+Security;Always+Learning" />
-</p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=jorgebrito777">
-    <img src="https://komarev.com/ghpvc/?username=jorgebrito777&label=Profile+Views&color=0e75b6&style=flat" />
-  </a>
+<a href="https://komarev.com/ghpvc/?username=jorgebrito777">
+<img src="https://komarev.com/ghpvc/?username=jorgebrito777&label=Profile+Views&color=0e75b6&style=flat"/>
+</a>
 
-  <a href="https://github.com/jorgebrito777?tab=followers">
-    <img src="https://img.shields.io/github/followers/jorgebrito777?style=social"/>
-  </a>
+<a href="https://github.com/jorgebrito777?tab=followers">
+<img src="https://img.shields.io/github/followers/jorgebrito777?style=social"/>
+</a>
+
+<a href="https://github.com/jorgebrito777">
+<img src="https://img.shields.io/github/stars/jorgebrito777?style=social"/>
+</a>
+
 </p>
 
 ---
@@ -31,26 +33,25 @@ I’m passionate about cybersecurity, secure software development, and automatio
 # 👨🏻‍💻 About Me
 
 - 🎓 Electronics & Telecommunications Engineer
-- 🎓 MSc Student in Cybersecurity
+- 🎓 Master's Student in Cybersecurity
 - 🏆 Cybersecurity Summer BootCamp 2026 (INCIBE • OEA • Universidad de León)
-- 🇪🇸 Based in Madrid, Spain
+- 🇪🇸 Madrid, Spain
 - 🐍 Python Developer
 - 🐧 Linux Enthusiast
 - ☁️ Learning AWS Cloud
-- 🔐 Interested in Blue Team, SOC Operations and Cloud Security
-- 🚀 Passionate about continuous learning
+- 🛡️ Interested in Blue Team, SOC Operations and Cloud Security
+- 🚀 Passionate about Continuous Learning
 
 ---
 
 # 📚 Currently Learning
 
 - Python for Cybersecurity
-- SOC Operations
-- Threat Hunting
 - Active Directory
 - Docker
 - Kubernetes
 - AWS Cloud Security
+- Threat Hunting
 - Digital Forensics
 - Malware Analysis
 
@@ -94,9 +95,9 @@ I’m passionate about cybersecurity, secure software development, and automatio
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jorgebrito777&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jorgebrito777&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgebrito777&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jorgebrito777&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -106,27 +107,7 @@ I’m passionate about cybersecurity, secure software development, and automatio
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=jorgebrito777&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jorgebrito777&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jorgebrito777&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://streak-stats.demolab.com?user=jorgebrito777&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
@@ -159,10 +140,11 @@ I’m passionate about cybersecurity, secure software development, and automatio
 
 ---
 
-# ❤️ Interests
+# ❤️ Areas of Interest
 
 - Ethical Hacking
 - Blue Team
+- SOC Operations
 - Network Security
 - Cloud Security
 - Python Automation
@@ -173,9 +155,9 @@ I’m passionate about cybersecurity, secure software development, and automatio
 
 # 🎯 Professional Goals
 
-- Build practical cybersecurity projects
-- Master Python for security automation
-- Improve Linux administration skills
+- Build practical cybersecurity tools
+- Improve Python programming skills
+- Master Linux Administration
 - Learn Cloud Security
 - Publish CTF Write-ups
 - Contribute to Open Source
@@ -189,7 +171,7 @@ I’m passionate about cybersecurity, secure software development, and automatio
 | Language | Level |
 |----------|-------|
 | 🇪🇸 Spanish | Native |
-| 🇬🇧 English | Learning |
+| 🇬🇧 English | Professional Working Proficiency (Improving) |
 
 ---
 
@@ -215,20 +197,14 @@ I’m passionate about cybersecurity, secure software development, and automatio
 
 # 💬 Favorite Quote
 
-> *"Security is not a product, but a process."*
->
-> **— Bruce Schneier**
+> "Security is not a product, but a process."
+
+**— Bruce Schneier**
 
 ---
 
 <p align="center">
 
 ⭐ Thanks for visiting my profile!
-
-</p>
-
-<p align="center">
-
-From 🇪🇸 Spain with ❤️
 
 </p>
