@@ -5,16 +5,20 @@
 <h1 align="center">Hi 👋, I'm Jorge Luis Brito Montes</h1>
 
 <h3 align="center">
-Aspiring Cybersecurity Analyst | MSc Cybersecurity Student | Electronics & Telecommunications Engineer
+Cybersecurity | MSc Cybersecurity Student | Electronics & Telecommunications Engineer
 </h3>
 
 <p align="center">
-I'm passionate about cybersecurity, automation, and secure software development. I enjoy building practical projects, solving technical challenges, and continuously improving my skills through hands-on learning.
+I’m passionate about cybersecurity, secure software development, and automation. I enjoy building practical projects, solving technical challenges, and continuously improving my skills through hands-on learning.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Cybersecurity;Python+Developer;Linux+Enthusiast;Cloud+Security;Always+Learning" />
 </p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=jorgebrito777">
-    <img src="https://komarev.com/ghpvc/?username=jorgebrito777&label=Profile%20Views&color=0e75b6&style=flat"/>
+    <img src="https://komarev.com/ghpvc/?username=jorgebrito777&label=Profile+Views&color=0e75b6&style=flat" />
   </a>
 
   <a href="https://github.com/jorgebrito777?tab=followers">
@@ -27,31 +31,32 @@ I'm passionate about cybersecurity, automation, and secure software development.
 # 👨🏻‍💻 About Me
 
 - 🎓 Electronics & Telecommunications Engineer
-- 🎓 Master's Student in Cybersecurity
+- 🎓 MSc Student in Cybersecurity
 - 🏆 Cybersecurity Summer BootCamp 2026 (INCIBE • OEA • Universidad de León)
 - 🇪🇸 Based in Madrid, Spain
 - 🐍 Python Developer
 - 🐧 Linux Enthusiast
 - ☁️ Learning AWS Cloud
-- 🛡️ Interested in Blue Team, SOC Operations and Cloud Security
-- 🚀 Always learning new technologies
+- 🔐 Interested in Blue Team, SOC Operations and Cloud Security
+- 🚀 Passionate about continuous learning
 
 ---
 
 # 📚 Currently Learning
 
 - Python for Cybersecurity
+- SOC Operations
+- Threat Hunting
 - Active Directory
 - Docker
 - Kubernetes
 - AWS Cloud Security
 - Digital Forensics
-- Threat Hunting
 - Malware Analysis
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
@@ -63,17 +68,11 @@ I'm passionate about cybersecurity, automation, and secure software development.
 
 # 🔧 Security Tools
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,bash,git,docker&perline=8"/>
-
-</p>
-
 - Kali Linux
 - Wireshark
 - Nmap
 - Burp Suite
-- Metasploit
+- Metasploit Framework
 - OWASP ZAP
 - VirtualBox
 - VMware
@@ -113,6 +112,16 @@ I'm passionate about cybersecurity, automation, and secure software development.
 
 ---
 
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jorgebrito777&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -135,31 +144,43 @@ I'm passionate about cybersecurity, automation, and secure software development.
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Current Projects
 
-| Project | Description |
-|---------|-------------|
-| 🔐 CyberToolkit | Modular Cybersecurity Toolkit developed in Python |
-| 🌐 Network Scanner | Discover devices on local networks |
-| 🔍 Port Scanner | Fast TCP Port Scanner |
-| 🔑 Password Generator | Secure Password Generator |
-| 📄 Log Analyzer | Security Log Analysis |
-| ☁️ AWS Security Labs | Hands-on Cloud Security |
-| 🐧 Linux Security Scripts | Linux Automation |
-| 📡 ESP32 Security Projects | Embedded Systems & IoT Security |
+| Project | Status |
+|---------|--------|
+| 🔐 CyberToolkit | 🚧 In Development |
+| 🌐 Network Scanner | 📝 Planned |
+| 🔍 Port Scanner | 📝 Planned |
+| 🔑 Password Generator | 📝 Planned |
+| 📄 Log Analyzer | 📝 Planned |
+| ☁️ AWS Security Labs | 📝 Planned |
+| 🐧 Linux Security Scripts | 📝 Planned |
+| 📚 CTF Write-ups | 🚧 In Progress |
+
+---
+
+# ❤️ Interests
+
+- Ethical Hacking
+- Blue Team
+- Network Security
+- Cloud Security
+- Python Automation
+- Digital Forensics
+- Incident Response
 
 ---
 
 # 🎯 Professional Goals
 
-- Build high-quality cybersecurity projects
-- Improve Python development skills
-- Master Linux Administration
+- Build practical cybersecurity projects
+- Master Python for security automation
+- Improve Linux administration skills
 - Learn Cloud Security
 - Publish CTF Write-ups
 - Contribute to Open Source
 - Earn Security+, eJPT and PNPT certifications
-- Start a professional career as a Cybersecurity Analyst
+- Start my professional career as a Cybersecurity Analyst
 
 ---
 
@@ -194,12 +215,20 @@ I'm passionate about cybersecurity, automation, and secure software development.
 
 # 💬 Favorite Quote
 
-> "Security is not a product, but a process."
+> *"Security is not a product, but a process."*
 >
-> — Bruce Schneier
+> **— Bruce Schneier**
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+⭐ Thanks for visiting my profile!
+
+</p>
+
+<p align="center">
+
+From 🇪🇸 Spain with ❤️
+
 </p>
