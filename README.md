@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Banner">
+  <img src="https://github.com/user-attachments/assets/0be9fcd2-4d71-4cb0-be93-3ba20aa2e89a" width="100%" alt="Jorge Luis Brito Montes Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Jorge Luis Brito Montes</h1>
@@ -9,12 +9,27 @@ Cybersecurity Engineer • MSc Cybersecurity Student • Electronics & Telecommu
 </h3>
 
 <p align="center">
-Passionate about Cybersecurity, Ethical Hacking, Python Development, Linux, Cloud Security and building practical security solutions.
+Passionate about Cybersecurity, Ethical Hacking, Python Development, Linux, Cloud Security and Secure Software Development.
+</p>
+
+<p align="center">
+<a href="https://komarev.com/ghpvc/?username=jorgebrito777">
+<img src="https://komarev.com/ghpvc/?username=jorgebrito777&label=Profile%20Views&color=0e75b6&style=flat"/>
+</a>
+
+<a href="https://github.com/jorgebrito777?tab=followers">
+<img src="https://img.shields.io/github/followers/jorgebrito777?label=Followers&style=social"/>
+</a>
+
+<a href="https://github.com/jorgebrito777">
+<img src="https://img.shields.io/github/stars/jorgebrito777?affiliations=OWNER&style=social"/>
+</a>
+
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨🏻‍💻 About Me
 
 - 🎓 Electronics & Telecommunications Engineer
 - 🎓 Master's Student in Cybersecurity
@@ -23,8 +38,21 @@ Passionate about Cybersecurity, Ethical Hacking, Python Development, Linux, Clou
 - 🐍 Python Developer
 - 🐧 Linux Enthusiast
 - ☁️ Learning AWS Cloud
-- 🔒 Interested in Blue Team & Red Team
-- 🎯 Goal: Become a Cybersecurity Analyst
+- 🔒 Interested in Blue Team, Red Team & Cloud Security
+- 🚀 Passionate about Continuous Learning
+
+---
+
+# 📚 Currently Learning
+
+- SOC Operations
+- Threat Hunting
+- Digital Forensics
+- Cloud Security
+- Docker
+- Kubernetes
+- Active Directory
+- Malware Analysis
 
 ---
 
@@ -72,8 +100,13 @@ Passionate about Cybersecurity, Ethical Hacking, Python Development, Linux, Clou
 
 # 📜 Certifications
 
-- 🛡️ Cybersecurity Summer BootCamp 2026 – INCIBE · OEA · Universidad de León
-- 🎓 Master's in Cybersecurity (In Progress)
+| Certification | Status |
+|---------------|--------|
+| 🛡️ Cybersecurity Summer BootCamp 2026 (INCIBE • OEA • Universidad de León) | ✅ Completed |
+| 🎓 Master's in Cybersecurity | 🚧 In Progress |
+| 🎯 CompTIA Security+ | Planned |
+| 🎯 eJPT | Planned |
+| 🎯 PNPT | Planned |
 
 ---
 
@@ -81,28 +114,53 @@ Passionate about Cybersecurity, Ethical Hacking, Python Development, Linux, Clou
 
 | Project | Description |
 |---------|-------------|
-| 🔐 CyberToolkit | Python toolkit for cybersecurity |
+| 🔐 CyberToolkit | Modular Cybersecurity Toolkit developed in Python |
 | 🌐 Network Scanner | Discover devices on local networks |
 | 🔍 Port Scanner | Fast TCP Port Scanner |
-| 📄 Log Analyzer | Analyze security logs |
+| 🔑 Password Generator | Secure Password Generator |
+| 📄 Log Analyzer | Security Log Analysis |
 | ☁️ AWS Security Labs | Cloud Security Practice |
 | 🐧 Linux Security Scripts | Linux Automation |
-| 📡 ESP32 Projects | Embedded Security |
+| 📡 ESP32 Security | Embedded Systems & IoT Security |
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Current Goals
 
-- ✅ Build 10 Cybersecurity Projects
+- ✅ Build professional cybersecurity projects
+- ✅ Improve Python programming skills
+- ✅ Master Linux
 - ✅ Learn Cloud Security
-- ✅ Improve Python Skills
 - ✅ Publish CTF Write-ups
 - ✅ Contribute to Open Source
 - ✅ Earn Industry Certifications
+- ✅ Become a Cybersecurity Analyst
 
 ---
 
-# 📫 Connect With Me
+# 📈 Learning Roadmap
+
+```text
+Python               ██████████░ 90%
+
+Linux                █████████░░ 85%
+
+Networking           ████████░░░ 80%
+
+Docker               ██████░░░░░ 60%
+
+AWS                  █████░░░░░░ 50%
+
+Cloud Security       ████░░░░░░░ 40%
+
+Digital Forensics    ███░░░░░░░░ 30%
+
+Malware Analysis     ██░░░░░░░░░ 20%
+```
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -110,7 +168,7 @@ Passionate about Cybersecurity, Ethical Hacking, Python Development, Linux, Clou
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:TU_CORREO">
+<a href="mailto:jorgebrito777@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -122,10 +180,15 @@ Passionate about Cybersecurity, Ethical Hacking, Python Development, Linux, Clou
 
 ---
 
+# 💬 Favorite Quote
+
+> **"Security is not a product, but a process."**  
+> — Bruce Schneier
+
+---
+
 <p align="center">
 
 ⭐ Thanks for visiting my profile!
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0be9fcd2-4d71-4cb0-be93-3ba20aa2e89a" width="100%" alt="Jorge Luis Brito Montes Banner"/>
 </p>
